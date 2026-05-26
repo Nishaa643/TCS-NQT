@@ -1,9 +1,0 @@
-[33mdf8faad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit (amend): Fix conveyor belt chocolate issue
-[33m1af87c5[m HEAD@{1}: commit: empty chocolate in the conveyor belt
-[33m4ed1d1c[m HEAD@{2}: commit: security risk question
-[33m3f0d9b1[m HEAD@{3}: commit: removed .vscode
-[33m0b2adfa[m HEAD@{4}: commit: number of sundays
-[33mb02b389[m HEAD@{5}: commit: Removed unnecessary files
-[33m67e52fe[m HEAD@{6}: commit: bits change manipulation
-[33m68c8e0b[m HEAD@{7}: Branch: renamed refs/heads/main to refs/heads/main
-[33m68c8e0b[m HEAD@{9}: commit (initial): virtual Kho Kho solution
