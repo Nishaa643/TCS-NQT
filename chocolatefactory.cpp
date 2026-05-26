@@ -8,13 +8,13 @@ for(int i =0;i<n;i++){
     int x;
     cin >> x;
     if(x!=0){
-        arr[j]=x;
+        arr[j]=x; //non zero elements will be stored in array j
         j++;
     }
 
 }
 for(int i=0;i<n;i++){
-    cout << arr[i] << " ";
+    cout << arr[i] << " "; //printing array 
 }
 return 0;
 }
