@@ -3,7 +3,7 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++.exe build active file",
-            "command": "C:\\Users\\KIIT0001\\Downloads\\winlibs-x86_64-posix-seh-gcc-16.1.0-mingw-w64msvcrt-14.0.0-r2\\mingw64\\bin\\g++.exe",
+            "command": "g++",
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
